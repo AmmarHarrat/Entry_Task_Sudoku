@@ -9,7 +9,7 @@ the model should detect and recognize Sudoku Puzzle from newspapers images and r
   - second  :  _create **Convolutional Neural Networks model CNN** model using **Keras API** to recognize each digit_.
 
 _the reason for choosing this techniques is :_
- - _to build a Tensorflow model from scratch to detect the whole sudoku puzzle directly is hard in our case because we need to label more images with diffrent font style and diffrent quality, because for such a task 200 images are not enough.that's why i have decided to do image processing first to detect cells and use **Keras** which is also a **Tensorflow API**  to train a model which is able to recognize each digit_.
+ - _to build a Tensorflow model from scratch to detect the whole sudoku puzzle directly is hard in our case because we need to label more images with diffrent font style and diffrent quality, because for such a task 200 images are not enough.that's why i have decided to do image processing first to detect cells and use **Keras** which is also a **Tensorflow API**  to train a model which is able to recognize each digit_.<br>
 <br>**Note**: _due to the already mentioned techniques of implementation i exported the model as '.h5' file format_.
 
 my implementation is based on the following research papers which are published when creating the sudoku dataset used to train my model : 

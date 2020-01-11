@@ -15,4 +15,7 @@ _the reason for choosing this techniques is :_
 _my implementation is based on the following research papers which are published when creating the sudoku dataset used to train my model_ : 
  - <a href="https://www.researchgate.net/publication/282303748_Camera-based_Sudoku_recognition_with_deep_belief_network" rel="nofollow">Camera-based Sudoku recognition with deep belief network</a>
  -  <a href="https://www.researchgate.net/publication/307545305_Mixed_handwritten_and_printed_digit_recognition_in_Sudoku_with_Convolutional_Deep_Belief_Network" rel="nofollow">Mixed handwritten and printed digit recognition in Sudoku with Convolutional Deep Belief Network</a>
+ <br>
+ 
+##  Run Examples : 
  

@@ -6,7 +6,7 @@ the model should detect and recognize Sudoku Puzzle from newspapers images and r
  _the implementation of this model is splitted into 2 parts_:
   - first : _various image processing techniques such as Hough Transform and Contour Detection are used to detect the grid and digits
   of the Sudoku puzzle_. 
-  - second  :  _create **Convolutional Neural Networks model CNN** model using **Keras API** to recognize each digit_.
+  - second  :  _create **Convolutional Neural Networks CNN model**  using **Keras API** to recognize each digit_.
 
 _the reason for choosing this techniques is :_
  - _to build a Tensorflow model from scratch to detect the whole sudoku puzzle directly is hard in our case because we need to label more images with diffrent font style and diffrent quality, because for such a task 200 images are not enough.that's why i have decided to do image processing first to detect cells and use **Keras** (which is also a **Tensorflow API**) to train a model that is able to recognize each digit_.<br>

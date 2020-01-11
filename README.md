@@ -20,4 +20,12 @@ _my implementation is based on the following research papers which are published
 ##  Run Examples : 
  
    - _to test the trained model just execute the code in the **Test_sudoku_model.ipynb** jupyter notebook and follow the instructions mentioned in it._
-   - _I have uploaded some sample images for testing (images are located in the **test_examples_images** directory), you can also test with different images but make sure to give a correct path of the image to the function **split_test_image_puzzle**_
+   - _I have uploaded some sample images for testing (images are located in the **test_examples_images** directory), you can also test with different images but make sure to give a correct path of the image to the function **split_test_image_puzzle**_.
+   
+ ## installation of python module dependencies: 
+  <br> _the following python modules shoud be installed :_
+   
+ - pip install opencv-python .
+ - pip install keras 
+ - pip install pytesseract.
+ - pip install scikit-image

@@ -1,7 +1,7 @@
 # Entry_Task_Sudoku
 _this git repository contains code and dataset that are used to build a machine learning model.<br>
 the model should detect and recognize Sudoku Puzzle from newspapers images and return the detected Sudoku in an array._
-## Implementation Technique 
+## Implementation Technique :
 
  _the implementation of this model is splitted into 2 parts_:
   - first : _various image processing techniques such as Hough Transform and Contour Detection are used to detect the grid and digits
@@ -19,3 +19,5 @@ _my implementation is based on the following research papers which are published
  
 ##  Run Examples : 
  
+   - _to test the trained model just execute the code in the **Test_sudoku_model.ipynb** jupyter notebook and follow the instructions mentioned in the notebook._
+   - _I have uploaded some sample images for testing (images are located in the **test_examples_images** directory), you can also test with diffrent images but make sure to give a correct path of the image to the function **split_test_image_puzzle**_

@@ -3,4 +3,5 @@ numpy
 os
 pytesseract
 scikit-image(skimage.segmentation)
+tensorflow
 keras

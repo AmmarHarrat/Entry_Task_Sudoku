@@ -26,6 +26,7 @@ _my implementation is based on the following research papers which are published
   <br> _the following python modules shoud be installed :_
    
  - pip install opencv-python .
+ - pip install tensorflow
  - pip install keras 
  - pip install pytesseract.
  - pip install scikit-image

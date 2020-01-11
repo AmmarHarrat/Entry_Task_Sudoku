@@ -4,6 +4,6 @@ the model should detect and recognize Sudoku Puzzle from newspapers images and r
 ## Implementation Technique 
 
  _the implementation of this model is splitted into 2 parts_:
-  - first : various image processing techniques such as Hough Transform and Contour Detection are used to detect the grid and digits
-  of the Sudoku puzzle. 
+  - first : _various image processing techniques such as Hough Transform and Contour Detection are used to detect the grid and digits
+  of the Sudoku puzzle_. 
   - second  : 

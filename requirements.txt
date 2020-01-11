@@ -1,0 +1,6 @@
+cv2(pip install opencv-python)
+numpy
+os
+pytesseract
+scikit-image(skimage.segmentation)
+keras

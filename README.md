@@ -20,8 +20,8 @@ _my implementation is based on the following research papers which have been pub
 ##  Run Examples : 
  
    - _to test the trained model just execute the code in the **Test_sudoku_model.ipynb** jupyter notebook and follow the instructions mentioned in it._
-   - _I have uploaded some sample images for testing (images are located in the **test_examples_images** directory), you can also test with different images just put them into this directory and make sure to give a correct path of the image to the function **split_test_image_puzzle**_.
-   <br>
+   - _I have uploaded some sample images for testing (images are located in the **test_examples_images** directory), you can also test with different images just put them into this directory and make sure to give a correct path of the image to the function **split_test_image_puzzle**_.<br>
+
  ## Installation of python module dependencies: 
   <br> _the following python modules should be installed :_
    
